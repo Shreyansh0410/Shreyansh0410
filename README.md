@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shreyansh0410
 - 👀 I’m interested in ...Information Technology 
 - 🌱 I’m currently learning ...coding 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
